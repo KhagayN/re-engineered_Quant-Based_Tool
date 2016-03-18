@@ -22,7 +22,7 @@
 //	Team:	Clinton Hughes		(Supervisor)
 //			Munieshwar Ramdass	(C++ Programmer)
 //			Nicolas Corpus		(GUI, R Programmer)
-//			Khaguy Nagdimov		(GUI, R Programmer)
+//			Khagay Nagdimov		(GUI, R Programmer)
 //			
 //	June 2nd, 2015 - August 14th, 2015
 //
